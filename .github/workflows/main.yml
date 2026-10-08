@@ -30,7 +30,7 @@ jobs:
         run: |
           rm -rf site
           mkdir site
-          unzip -oq "math3-dev-v45(1).zip" -d site
+          unzip -oq "math3-dev-v46.zip" -d site
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
